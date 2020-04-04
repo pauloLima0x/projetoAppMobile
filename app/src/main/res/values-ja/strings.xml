@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"プロフィール "</string>
+    <string name="FullName">" フルネーム"</string>
+    <string name="edit">編集する</string>
+    <string name="email">電子メール</string>
+    <string name="photo">" プロフィールの写真"</string>
+</resources>

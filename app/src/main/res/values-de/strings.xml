@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Perfil</string>
+    <string name="FullName">"Vollständiger Name "</string>
+    <string name="edit">"Bearbeiten "</string>
+    <string name="email">Email</string>
+    <string name="photo">"Profilbild "</string>
+</resources>

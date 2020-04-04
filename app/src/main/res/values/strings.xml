@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="photo">Profile picture</string>
+    <string name="FullName">Full name</string>
+    <string name="email">Email</string>
+    <string name="edit">To edit</string>
+
+
+</resources>
